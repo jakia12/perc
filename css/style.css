@@ -20,7 +20,7 @@ html{
 body{
     font-family: 'skrap';
     /* background-color: var(--backgroundColor); */
-    background: #c88649;
+    background: linear-gradient(to right, #914dfa, #46b0bd, #14f194 );
     margin: 0;
 }
 .button{
